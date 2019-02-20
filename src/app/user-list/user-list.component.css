@@ -1,0 +1,13 @@
+.row {
+    background-color: gainsboro;
+    border: solid 1px rgb(181, 177, 177);
+    padding:  10px;
+}
+
+.row:hover {
+    border: solid 1px rgb(60, 59, 59);
+}
+
+.row h5 {
+    color: rgb(64, 114, 199);
+}
